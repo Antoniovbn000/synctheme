@@ -14,7 +14,7 @@ git clone https://github.com/Antoniovbn000/synctheme.git
 
 apt install -y unzip
 
-cd synctheme && unrar e SYNC.rar && cp -r * /var/www/pterodactyl
+cd synctheme && unzip SYNC.zip && cp -r * /var/www/pterodactyl
 
 2. Install all depencies
 
